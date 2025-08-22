@@ -28,9 +28,7 @@ Skilled in <span style="color:#32CD32;">Java</span> and <span style="color:#00BF
 
 ### 3. Quantum  
 [![Repo](https://img.shields.io/badge/GitHub-Repo-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhargav-abhay/quantum)  
-[![Python](https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white)]()  
-
-**Description:** Exploration of **Quantum Computing concepts** using Python. Includes experiments and small simulations to understand the basics of quantum mechanics in computing.  
+[![Python](https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white)]()    
 
 ---
 
