@@ -81,4 +81,4 @@
 
 ## 💡 Fun Fact
 
-> I like exploring complex data and finding patterns that tell interesting stories!
+> I like exploring complex data and finding patterns that tell interesting stories! 
