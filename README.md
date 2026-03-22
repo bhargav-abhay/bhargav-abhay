@@ -1,54 +1,42 @@
-# 👋 Hi, I'm Abhay Tripathi
+# 👋 I'm Abhay Tripathi
+### 🚀 Founder & Lead Architect | **NyayaVeda AI**
 
-### 🚀 Software Developer | Data Structures & Algorithms | Java & Python | Machine Learning
-
-I am consistently improving my **DSA and problem-solving skills**, while building projects using **Java, Python and ML**. I believe in disciplined learning and writing clean, scalable code.
-
----
-
-## 💡 What I'm working on
-- Practicing **DSA (Data Structures & Algorithms)** daily
-- Solving challenges on **LeetCode (username: `rahdriven`)**
-- Building **Machine Learning and automation projects** using Python
-- Preparing for **software engineering roles**
+Building the future of legal accessibility in India. I specialize in architecting AI-driven systems that simplify complex legal frameworks. My focus is on scaling **NyayaVeda** from a vision into a production-ready enterprise solution.
 
 ---
 
-## 🧠 Skills
-
-**Languages**
-- Java
-- Python
-
-**Core Competencies**
-- Data Structures & Algorithms
-- Object-Oriented Programming (OOPs)
-- Problem Solving
-- Machine Learning (basics)
-
-**Tools & Technologies**
-- Git & GitHub
-- VS Code / IntelliJ
-- Jupyter Notebook
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargav-abhay&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-abhay&layout=compact&hide_border=true)
-
-> Replace `bhargav-abhay` with your GitHub username
+## 🏗️ Venture: NyayaVeda AI
+I am leading the end-to-end development, infrastructure, and strategic growth of the NyayaVeda ecosystem.
+* **Official Domain:** [www.nyayaveda.co.in](https://www.nyayaveda.co.in)
+* **Engineering Hub:** [github.com/NyayaVeda-Ai](https://github.com/NyayaVeda-Ai)
+* **Current Focus:** Implementing high-performance AI models and robust cloud infrastructure.
 
 ---
 
-## 🔗 Connect with me
+## 🧠 Core Competencies & Infrastructure
+**System Architecture**
+* **Backend & AI:** High-scale system design using FastAPI and TypeScript.
+* **Data Logic:** Leveraging advanced DSA for optimized legal data processing.
+* **Infrastructure:** Enterprise-grade setup using Cloudflare DNS, Vercel Edge hosting, and professional communication pipelines.
 
-[LinkedIn](https://www.linkedin.com/in/abhay-tripathi-08712029b)
-
-[GitHub](https://github.com/bhargav-abhay)
-
-[CodeChef](https://www.codechef.com/users/abhay666)
+**Tech Stack**
+* **Languages & Frameworks:** TypeScript, Python (FastAPI).
+* **Deployment:** Git/GitHub, Cloudflare, Vercel.
 
 ---
 
-### ✨ Personal Motto
-> **Consistency beats talent when talent doesn't work hard.**
+## 📊 Engineering Impact
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargav-abhay&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-abhay&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔗 Executive Connect
+* **Founder's Email:** [abhaytripathi@nyayaveda.co.in](mailto:abhaytripathi@nyayaveda.co.in)
+* **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/abhay-tripathi-08712029b)
+* **Status:** Building in public. Scaling the Legal-Tech revolution.
+
+---
+
+> **"We aren't just writing code; we are engineering justice."**
