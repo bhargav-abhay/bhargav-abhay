@@ -1,42 +1,58 @@
-# 👋 I'm Abhay Tripathi
-### 🚀 Founder & Lead Architect | **NyayaVeda AI**
+<div align="center">
 
-Building the future of legal accessibility in India. I specialize in architecting AI-driven systems that simplify complex legal frameworks. My focus is on scaling **NyayaVeda** from a vision into a production-ready enterprise solution.
+  <img src="https://www.nyayaveda.co.in/icon-512.png" width="80" height="80" alt="NyayaVeda AI" />
 
----
+  <h1>Abhay Tripathi</h1>
 
-## 🏗️ Venture: NyayaVeda AI
-I am leading the end-to-end development, infrastructure, and strategic growth of the NyayaVeda ecosystem.
-* **Official Domain:** [www.nyayaveda.co.in](https://www.nyayaveda.co.in)
-* **Engineering Hub:** [github.com/NyayaVeda-Ai](https://github.com/NyayaVeda-Ai)
-* **Current Focus:** Implementing high-performance AI models and robust cloud infrastructure.
+  <p><strong>Founder & Technical Architect — NyayaVeda AI</strong></p>
 
----
+  <p>
+  <a href="https://www.nyayaveda.co.in">
+  <img src="https://img.shields.io/badge/NyayaVeda_AI-Launch_Sept_23-D97706?style=for-the-badge&logoColor=white" alt="NyayaVeda AI" />
+  </a>
+  <a href="https://in.linkedin.com/in/abhay-tripathi-08712029b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/NVIDIA_Inception-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Inception" />
+  <img src="https://img.shields.io/badge/Google_for_Startups-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google for Startups" />
+  <img src="https://img.shields.io/badge/AWS_Activate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Activate" />
+  </p>
 
-## 🧠 Core Competencies & Infrastructure
-**System Architecture**
-* **Backend & AI:** High-scale system design using FastAPI and TypeScript.
-* **Data Logic:** Leveraging advanced DSA for optimized legal data processing.
-* **Infrastructure:** Enterprise-grade setup using Cloudflare DNS, Vercel Edge hosting, and professional communication pipelines.
+  </div>
 
-**Tech Stack**
-* **Languages & Frameworks:** TypeScript, Python (FastAPI).
-* **Deployment:** Git/GitHub, Cloudflare, Vercel.
+  ---
 
----
+  <div align="center">
+  <i>India has 50 million pending cases and 1.7 million advocates still researching on Google.</i>
+  </div>
 
-## 📊 Engineering Impact
+  ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargav-abhay&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargav-abhay&layout=compact&theme=tokyonight&hide_border=true)
+  ### What I Built
 
----
+  **[NyayaVeda AI](https://www.nyayaveda.co.in)** — India's High-Precision Legal AI Engine.
 
-## 🔗 Executive Connect
-* **Founder's Email:** [abhaytripathi@nyayaveda.co.in](mailto:abhaytripathi@nyayaveda.co.in)
-* **Professional Profile:** [LinkedIn](https://www.linkedin.com/in/abhay-tripathi-08712029b)
-* **Status:** Building in public. Scaling the Legal-Tech revolution.
+  SC + 25 High Courts + all tribunals + 858 Central Acts.
+  Works in Hindi. Cites real judgments. Blocks false ones by design.
+  Built for the district court advocate — not just elite law firms.
 
----
+  2 years · Zero funding · Launching September 23, 2026
 
-> **"We aren't just writing code; we are engineering justice."**
+  ---
+
+  ### Stack
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+  ---
+
+  <div align="center">
+  <a href="mailto:support@nyayaveda.co.in">support@nyayaveda.co.in</a>
+  </div>
